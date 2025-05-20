@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @harithamari
+- 🧬 Decoding genomes, debugging life.
+- 👀 I’m interested in ML for biology (variant calling, protein folding, drug discovery),
+- 🌱 I’m currently learning Omics data analysis  
+- 📫 How to reach me
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:
+- 🧬 My favorite Python library is Biopython (obviously).
+- ☕ I measure compute time in "cups of TEA consumed".
