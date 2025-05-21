@@ -3,6 +3,4 @@
 - 👀 I’m interested in ML for biology (variant calling, protein folding, drug discovery),
 - 🌱 I’m currently learning M.Sc Bioinformatics 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:
-- 🧬 My favorite Python library is Biopython (obviously).
-- ☕ I measure compute time in "cups of TEA consumed".
+- ⚡ Fun fact: I measure compute time in "cups of TEA consumed".
